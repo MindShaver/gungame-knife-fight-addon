@@ -1,0 +1,115 @@
+﻿"Phrases"
+{
+    "Player agrees"
+    {
+        "en"            "согласился на ножевое сражение!"
+    }
+    "Player disagrees"
+    {
+        "en"            "ты трусливая курица!"
+    }
+    "Knife menu title"
+    {
+        "en"            "Последний выжвший на ножах!"
+    }
+    "Knife question"
+    {
+        "en"            "Вы хотите сражаться на ножах?"
+    }
+    "Yes option"
+    {
+        "en"            "Да, я крут!"
+    }
+    "No option"
+    {
+        "en"            "Нет, я курица!"
+    }
+    "Both agree"
+    {
+        "en"            "Оба игрока согласны! Поехали!"
+    }
+    "1v1 situation"
+    {
+        "en"            "Последний выживший!"
+    }
+    "beat"
+    {
+        "en"            "битва"
+    }
+    "win battle"
+    {
+        "en"            "выйграл битву!"
+    }
+    "Time remaining"
+    {
+        "en"            "Время идет:"
+    }
+    "Fight draw"
+    {
+        "en"            "Время вышло! Ничья!"
+    }
+    "Items won"
+    {
+        "en"            "Вы выйграли следующее:"
+    }
+    "Health"
+    {
+        "en"            "Жизни"
+    }
+    "Money"
+    {
+        "en"            "Деньги"
+    }
+    "Speed"
+    {
+        "en"            "Скорость"
+    }
+    "Removing weapons"
+    {
+        "en"            "Все оружее убрано"
+    }
+    "Prepare fight"
+    {
+        "en"            "Подготовьтесь боросться через:"
+    }
+    "Fight"
+    {
+        "en"            "Сражайтесь!!!"
+    }
+    "KnifeFight settings"
+    {
+        "en"            "[KnifeFight] Опции"
+    }
+    "Play fight songs"
+    {
+        "en"            "Играть звуки"
+    }
+    "Selected"
+    {
+        "en"            "[√]"
+    }
+    "NotSelected"
+    {
+        "en"            "[ ]"
+    }
+    "Show fight panel"
+    {
+        "en"            "Показать панель"
+    }
+    "Restore fight menu"
+    {
+        "en"            "ишите в чате !kfmenu и нажмите 2 что бы вернуть меню."
+    }
+    "Always agree to knife fight"
+    {
+        "en"            "Всегда  соглашаться к борьбе на ножах"
+    }
+    "Always disagree to knife fight"
+    {
+        "en"            "Никогда не соглашаться к борьбе на ножах"
+    }    
+    "has won"
+    {
+        "en"            "выиграл борьбу на ножах"
+    }    
+}
